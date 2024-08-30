@@ -124,6 +124,9 @@ const SignUpPage = () => {
 					<Link to='/login'>
 						<button className='btn rounded-full btn-primary text-white btn-outline w-full'>Sign in</button>
 					</Link>
+					<div className="mt-3">
+				<a href="https://www.instagram.com/mr_s_a_t_y_a_14/" className="text-green-400">devloped by satish Donerao</a>
+				</div>
 				</div>
 			</div>
 		</div>
